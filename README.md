@@ -31,4 +31,4 @@ Welcome to my GitHub page! I'm an experienced **Java**, **JavaScript**, **Python
 
 ## 📫 Let's Connect!
 
-Feel free to check out my repositories or reach out if you're into **software dev**, **CTFs**, or just want to chat about tech! 🚀
+- https://discord.gg/HThCETu2pv
