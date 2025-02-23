@@ -1,18 +1,34 @@
-### Hi there 👋 
-### This is iciidev aka (xsolara)!
+# 👋 Hi there, I'm iciidev (aka xsolara)!
 
-Welcome to my Github page! I am iciidev and I am an experienced java, javascript, python, php, cpp, c# developer currently finishing my Computer Engineering Master degree!  
+Welcome to my GitHub page! I'm an experienced **Java**, **JavaScript**, **Python**, **PHP**, **C++**, and **C#** developer, currently wrapping up my **Master's degree in Computer Engineering**.
 
+---
 
+## 🚀 About Me
 
-#### 🌱 Things I am currently working on: 
-- Solara Group on 2b2t
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Hackthebox CTF courses
-- 
+- 🎓 Master’s in **Computer Engineering** *(in progress)*
+- 💻 Passionate about **software development**, **data science**, and **machine learning**
+- 🛠️ Always exploring new tech and pushing my limits
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Improving my CV with some education apart from university
+---
+
+## 🌱 Currently Working On
+
+- 🏰 **Solara Group** on *2b2t*  
+- 🎓 Completing my **Master's degree**  
+- 📊 Diving into **Data Science** & **Machine Learning** through online courses  
+- 🕵️‍♂️ Advancing in **HackTheBox CTF** courses  
+
+---
+
+## 💪 Challenging Myself With
+
+- ⏰ Waking up earlier to maximize productivity  
+- 👨‍💻 Coding at least **4 hours** daily  
+- 📄 Expanding my CV with extra-curricular education beyond university  
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to check out my repositories or reach out if you're into **software dev**, **CTFs**, or just want to chat about tech! 🚀
