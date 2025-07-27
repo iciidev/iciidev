@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm iciidev (aka xsolara)!
+# 👋 Hi there, I'm iciidev (aka compyle)!
 
 Welcome to my GitHub page! I'm an experienced **Java**, **JavaScript**, **Python**, **PHP**, **C++**, and **C#** developer, currently wrapping up my **Master's degree in Computer Engineering**.
 
